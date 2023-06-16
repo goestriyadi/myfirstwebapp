@@ -7,3 +7,13 @@
 2023-05-24 18:05:38,117 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@65bc9db2{STOPPING}[10.0.13,sto=0]
 2023-05-24 18:05:38,120 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@debfce6{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2023-05-24 18:05:38,143 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@58fee612{/help,null,STOPPED}
+2023-06-16 20:25:34,031 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-16 20:26:16,707 [Worker-23: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.goesmodul.sprintboot:learn-spring-boot:0.0.1-SNAPSHOT @ C:\Springboot\learnspringboot\learn-spring-boot\pom.xml.
+2023-06-16 20:26:21,305 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learn-spring-boot/src/main/java
+2023-06-16 20:26:21,305 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learn-spring-boot/src/main/resources
+2023-06-16 20:26:21,306 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learn-spring-boot/src/main/resources
+2023-06-16 20:26:21,307 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learn-spring-boot/src/test/java
+2023-06-16 20:26:21,475 [Worker-23: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-06-16 20:26:22,114 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-06-16 20:26:22,129 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-16 20:26:22,132 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Springboot\learnspringboot\learn-spring-boot\src\test\resources
